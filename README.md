@@ -24,12 +24,8 @@
    - 内容：  
      1. 优化了 GUI 窗口的显示方式，将布局从竖直排列改为了网格式布局。  
      2. 加入了 `bg.png` 作为默认填充背景。
+     3. 优化了识别反应速度
   
-## 联系信息
-- **开发人员**: Mark Gu
-- **官网**: [https://gumingke.cloud](https://gumingke.cloud)
-- **邮箱**: [gumingke@gmk.cloud](mailto:gumingke@gmk.cloudgumingke@gmk.cloud)
-
 ## 项目结构
 ```
 .
